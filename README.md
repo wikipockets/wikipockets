@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+### Wikipockets
 
 ![](https://github-readme-stats.vercel.app/api?username=wikipockets&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
